@@ -9,7 +9,7 @@ const pol = require('./pol.js');
 const http = require('http');
 
 /**
- * Basic Request Hanlder (All Routes)
+ * Basic Request Handler (All Routes)
  * @param req
  * @param res
  */
